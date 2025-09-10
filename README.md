@@ -59,14 +59,6 @@ npm run dev
 
 Open your browser at `http://localhost:5173` (or as shown in your terminal).
 
-### Building for Production
-
-```bash
-npm run build
-```
-
-Then deploy the generated `dist` folder using your preferred static host.
-
 ## File Structure
 
 ```
@@ -78,6 +70,3 @@ public/
   index.html
 ```
 
-## License
-
-This project is open-sourced under the MIT License.
