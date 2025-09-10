@@ -28,11 +28,11 @@ A Wordle-style word guessing game built with React, featuring:
 ## Screenshots
 
 ### Gameplay
-<img width="742" height="842" alt="gameplay" src="https://github.com/user-attachments/assets/184703ec-7efc-42cf-88e0-1c9421841653" />
+<img width="200" height="226" alt="gameplay" src="https://github.com/user-attachments/assets/184703ec-7efc-42cf-88e0-1c9421841653" />
 
 
 ### Win Screen
-<img width="657" height="831" alt="win" src="https://github.com/user-attachments/assets/a5d9a22a-c65b-42f4-8dfa-b15d09068795" />
+<img width="200" height="252" alt="win" src="https://github.com/user-attachments/assets/a5d9a22a-c65b-42f4-8dfa-b15d09068795" />
 
 
 
