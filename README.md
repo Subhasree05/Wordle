@@ -46,8 +46,8 @@ A Wordle-style word guessing game built with React, featuring:
 ### Installation
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone (https://github.com/Subhasree05/Wordle)
+cd Wordle
 npm install
 ```
 
